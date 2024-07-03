@@ -13,6 +13,11 @@ export const navItems = [
     to: "/",
     icon: <Home className="h-4 w-4" />,
   },
+  {
+    title: "Hacker News Top Stories",
+    to: "/",
+    icon: <Home className="h-4 w-4" />,
+  },
 ];
 
 const App = () => {
